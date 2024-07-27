@@ -46,5 +46,5 @@ Designed a personal website to showcase my projects.
 🎓 Education
 
 Toronto Metropolitan University
-B.Sc. in Computer Science (Sept 2020 - Jun 2024)
+B.Sc. in Computer Science
  
