@@ -1,7 +1,8 @@
 👋 Hi, I'm Xin (Shane) Liu!
 
 Welcome to my GitHub! I'm a software engineer passionate about creating efficient and scalable applications.
-
+📧 lx1326607292@gmail.com 
+🌐 LinkedIn | [Website](https://lusanjj.github.io/shaneliu/)
 🚀 Technical Skills
 
 Languages: Java ☕, Python 🐍, JavaScript 📜, HTML 🌐, CSS 🎨, SQL 🗄️
@@ -39,8 +40,8 @@ HTML5, CSS3, JavaScript, React
 
 Designed a personal website to showcase my projects.
 
-Visit my website: 
-https://lusanjj.github.io/shaneliu/
+
+
 
 🎓 Education
 
