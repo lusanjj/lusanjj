@@ -36,3 +36,4 @@ Visit my website
 🎓 Education
 Toronto Metropolitan University
 B.Sc. in Computer Science (Sept 2020 - Jun 2024)
+ 
